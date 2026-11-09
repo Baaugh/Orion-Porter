@@ -185,7 +185,6 @@ The results show as ✔ / ✖ lines in the Export tab and the log.
 ## Known limitations
 
 - BO3 can't load new shaders, so special effects (iridescence and similar) are approximated with BO3's standard materials.
-- In-game first-person legs stay stock.
 - Each stock character can only have one replacement at a time across all your mods, because GDT names are shared across the Mod Tools.
 - For games Morpheus has no rig for, check the bind pose when Orion warns you about the fit.
 
